@@ -51,9 +51,9 @@ button {
   gap: 40px;
 }
 
-.topnavi__info {
-  /* flex: 1; */
-}
+/* .topnavi__info {
+} 
+*/
 
 .topnavi__button {
   background-color: #ff3c00;
@@ -237,7 +237,7 @@ button {
 
 .ticket__logos {
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
   padding-top: 160px;
   gap: 40px;
